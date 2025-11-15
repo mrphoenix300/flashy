@@ -27,7 +27,7 @@ It helps you learn French vocabulary with automatic card flipping, progress savi
 ## 📂 Project Structure
 
 ```
-Flashy/
+flashy/
 │
 ├── main.py
 ├── data/
