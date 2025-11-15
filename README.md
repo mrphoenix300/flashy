@@ -1,5 +1,6 @@
 # 📘 Flashy — French ↔ English Flashcards (Tkinter)
 
+📚 This project is part of my learning journey with Tkinter and pandas.
 A clean and interactive flashcard learning app built with **Python**, **Tkinter**, and **Pandas**.
 It helps you learn French vocabulary with automatic card flipping, progress saving, and a polished UI.
 
