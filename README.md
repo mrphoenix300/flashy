@@ -17,7 +17,7 @@ It helps you learn French vocabulary with automatic card flipping, progress savi
 * 🎴 Flashcard front/back design
 * ✔️ Mark words as **Known**
 * ❌ Mark words as **Unknown**
-* 💾 Saves progress in `words_to_learn`
+* 💾 Saves progress in `words_to_learn.csv`
 * 🔁 Continues from your last session
 * 📊 Data handled through Pandas
 * 🧠 Simple, clean vocabulary cycle
@@ -83,7 +83,7 @@ python main.py
 Your progress is saved in:
 
 ```
-words_to_learn
+words_to_learn.csv
 ```
 
 This file updates automatically based on your answers.
